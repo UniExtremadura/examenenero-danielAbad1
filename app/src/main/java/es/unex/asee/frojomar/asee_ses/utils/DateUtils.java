@@ -14,7 +14,7 @@ import java.util.TimeZone;
 
 /*
 
-IMPLEMENTACION DEL CASO DE USO 18: ROL: DS
+IMPLEMENTACION DEL CASO DE USO 18: ROL: AS
 
  */
 
